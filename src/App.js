@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>To Do</h1>
+      <h1>To Do List</h1>
 
       <br />
       <Form addToList={addToList} />
